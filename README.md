@@ -6,3 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <Form title={`Title for the form`} onSubmit={handleOnSubmit} />
 ```
 # Leadaboard
+
+
+# Steps to run
+
+npm install 
+npm start
+
