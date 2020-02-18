@@ -12,3 +12,7 @@ npm install
 
 npm start
 
+# Time taken
+
+2 hours
+
